@@ -1,5 +1,5 @@
 # Craft MD5 Twig Filter Plugin
-This is a plugin for Craft CMS to convert a string to an MD5 has in templates with a Twig filter.
+This is a plugin for Craft CMS to convert a string to an MD5 hash.
 
 Example usage in a template:
 
